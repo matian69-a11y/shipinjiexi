@@ -1,4 +1,4 @@
-# Parse 短视频解析站点（ParseShort） 
+# Parse 短视频解析站点（ParseShort）  
 
 一个短视频解析服务，支持 24+ 平台的视频解析与下载。
 
